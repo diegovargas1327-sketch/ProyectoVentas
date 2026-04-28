@@ -1,0 +1,5 @@
+CC;35239;Juan;Rodriguez
+CC;57793;Maria;Rodriguez
+CC;75131;Pedro;Perez
+CC;45395;Carlos;Lopez
+CC;75695;Carlos;Lopez
