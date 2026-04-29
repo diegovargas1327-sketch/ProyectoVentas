@@ -1,0 +1,65 @@
+CONCLUSIÓN DEL PROYECTO - GENERACIÓN Y CLASIFICACIÓN DE DATOS
+
+Módulo: Conceptos Fundamentales de Programación
+
+Grupo: CFPG 7
+
+Integrantes: Jean Michael Castañeda Avendaño, Julián Triviño Torres, Diego Vargas Lopez, Angie Paola Mejía Lozano, Jairo Duván Ochoa Restrepo
+
+========================================================================
+
+1. LO APRENDIDO DURANTE EL DESARROLLO DEL PROYECTO
+------------------------------------------------------------------------
+Durante el desarrollo de este proyecto fortalecimos conocimientos en
+programación en Java, especialmente en el manejo de archivos de texto,
+lectura y procesamiento de datos, uso de estructuras de datos y generación
+de reportes en formato CSV.
+
+Asimismo, aplicamos conceptos fundamentales como modularización del código,
+organización lógica de clases y métodos, buenas prácticas de programación
+y documentación mediante estándares como Javadoc. También aprendimos a
+trabajar con datos pseudoaleatorios para construir escenarios de prueba,
+comprendiendo cómo se diseñan soluciones que permiten automatizar procesos
+y analizar información de manera estructurada.
+
+Adicionalmente, el trabajo colaborativo permitió desarrollar habilidades de
+integración, coordinación y resolución de problemas, entendiendo cómo un
+proyecto complejo puede abordarse dividiendo responsabilidades y uniendo
+esfuerzos para lograr una solución funcional.
+
+========================================================================
+
+2. POSIBLES APLICACIONES EN LA VIDA PROFESIONAL
+------------------------------------------------------------------------
+Los conocimientos adquiridos en este proyecto tienen aplicación en el
+desarrollo de sistemas de gestión, automatización de procesos, análisis
+de datos y soluciones empresariales que requieran procesar información y
+generar reportes de manera automática.
+
+El manejo de archivos estructurados, procesamiento de datos y generación
+de reportes son habilidades utilizadas en múltiples áreas del desarrollo
+de software, integración de sistemas, inteligencia de negocios y diseño
+de soluciones tecnológicas.
+
+De igual forma, este proyecto permitió fortalecer competencias aplicables
+en entornos profesionales como el trabajo en equipo, el pensamiento lógico,
+la resolución de problemas y la capacidad de construir soluciones mediante
+programación para atender necesidades reales.
+
+========================================================================
+
+3. DIFICULTADES PRESENTADAS DURANTE EL DESARROLLO DEL PROYECTO
+------------------------------------------------------------------------
+Entre las principales dificultades presentadas estuvo la integración de
+las diferentes partes del proyecto, la coordinación del trabajo en equipo
+y algunos retos técnicos relacionados con el manejo de archivos, validación
+de datos y procesamiento correcto de la información.
+
+También se presentaron desafíos al momento de estructurar la lógica del
+programa y relacionar adecuadamente productos, vendedores y ventas para
+obtener resultados coherentes en los reportes generados.
+
+Sin embargo, estas dificultades hicieron parte del proceso de aprendizaje
+y permitieron fortalecer habilidades técnicas y colaborativas, aportando
+a una mejor comprensión de cómo enfrentar problemas reales en el desarrollo
+de software.
